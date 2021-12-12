@@ -13,7 +13,9 @@ var JavaScript = "Basic"
 <body>HTML5 Basic</body>
 
 .css {
+
     Basic: #fff;
+    
 }
 
 ## Contact 📞
