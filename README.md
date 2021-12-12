@@ -9,7 +9,9 @@ Interested in learning new programming languages
 ## Skills 🛠
 
 JavaScript = Basic
+
 HTML = Medium
+
 CSS = Medium
 
 ## Contact 📞
