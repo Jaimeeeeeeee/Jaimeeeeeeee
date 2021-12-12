@@ -8,15 +8,9 @@ Interested in learning new programming languages
 
 ## Skills 🛠
 
-var JavaScript = "Basic"
-
-<body>HTML5 Basic</body>
-
-.css {
-
-    Basic: #fff;
-    
-}
+JavaScript = Basic
+HTML = Medium
+CSS = Medium
 
 ## Contact 📞
 
