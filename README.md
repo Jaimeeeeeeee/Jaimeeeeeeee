@@ -1,25 +1,15 @@
-## Hello 👋
+## 👋 | Hello 
 
-My name is Jaime, I'm from Spain.
+- My name is Jaime, I'm from Spain.
+- I'm a young programmer
+- Interested in learning new programming languages
+## 🛠 | Skills
+At the moment these are my skill:<br>
 
-I'm a young programmer
+- HTML5
+- CSS3
+- JavaScript
+## 📞 | Contact
 
-Interested in learning new programming languages
-
-## Skills 🛠
-
-JavaScript = Basic
-
-HTML = Medium
-
-CSS = Medium
-
-## Contact 📞
-
-Contact me by:
-
-Discord: Jaime#3210
-
-Telegram: Jaimeeeeeeee
-
-;)
+Discord: Jaime#3210<br>
+Telegram: Jaimeeeeeeee<br>
